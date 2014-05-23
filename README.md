@@ -9,4 +9,4 @@ It shows the coolest things you can do (from a tourism perspective) in my birth 
 
 The Map Location for each place is set to a default value, so it will always point to the same place (will eventually add the exact locations).
 
-Any comments or suggestions are welcome!
+Any bugs, comments or suggestions are welcome!
