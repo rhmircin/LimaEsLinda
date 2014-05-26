@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+
+		<title>Lima es Linda</title>
+
+ 		<style>  
+            .myMap {  
+                height: 500px;  
+                width: 500px  
+            }  
+        </style>
+         
+	    <script type="text/javascript"
+	      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDIP8dN75jNe2KujqZEK7xYWl0g45aPl8Y&sensor=SET_TO_TRUE_OR_FALSE">
+	    </script>
+	    
+		<script src="resources/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.m"
+				data-sap-ui-theme="sap_bluecrystal"
+				data-sap-ui-xx-bindingSyntax="complex"
+				data-sap-ui-resourceroots='{
+				"limaeslinda": "./"
+				}'>
+		</script>
+
+		<script>
+				new sap.m.Shell({
+					app : new sap.ui.core.ComponentContainer({
+						name : "limaeslinda"
+					})
+				}).placeAt("content");
+		</script>
+	</head>
+	
+	<body class="sapUiBody" role="application">
+		<div id="content"></div>
+	</body>
+</html>
