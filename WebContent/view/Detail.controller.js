@@ -22,8 +22,8 @@ sap.ui.controller("limaeslinda.view.Detail", {
 		mapDiv.addStyleClass("myMap");
 		geocoder = new google.maps.Geocoder();
         var mapOptions = {  
-            center: new google.maps.LatLng(-34.397, 150.644),  
-            zoom: 12,  
+            center: new google.maps.LatLng(-12.04637, -77.04279),  
+            zoom: 14,  
             mapTypeId: google.maps.MapTypeId.ROADMAP  
         };  
         var mapRef = mapDiv.getDomRef();
@@ -52,11 +52,14 @@ sap.ui.controller("limaeslinda.view.Detail", {
 		var region = "Lima";
 		var city = "Lima";
 		var country = "Peru";
-
-		if (region !== null) {
-			return city + " " + region + " " + country;
+		var view = this.getView();
+		var context = view.getBindingContext();
+		var place = context.getProperty('Place');
+		
+		if ( place !== null) {
+			return city + " " + region + " " + country + " " + place;
 		} else {
-			return city + " " + country;
+			return city + " " + country + " " + region;
 		}
 	}
 	
