@@ -3,7 +3,7 @@
 	[
 			{
 				"ID" : "001",
-				"Place" : "Ir a la Plaza de Armas (de dia y de noche).",
+				"Place" : "Plaza de Armas",
 				"Status" : "N",
 				"Image" : "images/001.jpg",
 				"Photo" : "None",
@@ -12,7 +12,7 @@
 			},
 			{
 				"ID" : "002",
-				"Place" : "Ir a la Plaza San Martin.",
+				"Place" : "Plaza San Martin",
 				"Status" : "N",
 				"Image" : "images/002.jpg",
 				"Photo" : "None",
@@ -21,7 +21,7 @@
 			},
 			{
 				"ID" : "003",
-				"Place" : "Visitar Palacio de Gobierno.",
+				"Place" : "Palacio de Gobierno",
 				"Status" : "N",
 				"Image" : "images/003.jpg",
 				"Photo" : "None",
@@ -30,7 +30,7 @@
 			},
 			{
 				"ID" : "004",
-				"Place" : "Visitar el Congreso de la Republica.",
+				"Place" : "Congreso de la Republica",
 				"Status" : "N",
 				"Image" : "images/004.jpg",
 				"Photo" : "None",
@@ -39,7 +39,7 @@
 			},
 			{
 				"ID" : "005",
-				"Place" : "Hacer parapente en Miraflores.",
+				"Place" : "Miraflores",
 				"Status" : "N",
 				"Image" : "images/005.jpg",
 				"Photo" : "None",
@@ -48,7 +48,7 @@
 			},
 			{
 				"ID" : "006",
-				"Place" : "Caminar por el Malecon de Miraflores &#8211; Barranco &#8211; Chorrillos.",
+				"Place" : "Malecon de Miraflores",
 				"Status" : "N",
 				"Image" : "images/006.jpg",
 				"Photo" : "None",
@@ -57,7 +57,7 @@
 			},
 			{
 				"ID" : "007",
-				"Place" : "Recorrer la Costa Verde.",
+				"Place" : "Costa Verde",
 				"Status" : "N",
 				"Image" : "images/007.jpg",
 				"Photo" : "None",
@@ -66,7 +66,7 @@
 			},
 			{
 				"ID" : "008",
-				"Place" : "Ir al Puente de los Suspiros.",
+				"Place" : "Puente de los Suspiros",
 				"Status" : "N",
 				"Image" : "images/008.jpg",
 				"Photo" : "None",
@@ -75,7 +75,7 @@
 			},
 			{
 				"ID" : "009",
-				"Place" : "Tomar pisco sour (catedral) en el Hotel Bolivar y el Hotel Maury (la dosis recomendada son dos copas como maximo, con una extra hay riesgo de perder la conciencia).",
+				"Place" : "Hotel Bolivar",
 				"Status" : "N",
 				"Image" : "images/009.jpg",
 				"Photo" : "None",
@@ -84,7 +84,7 @@
 			},
 			{
 				"ID" : "010",
-				"Place" : "Tomar el macerado de pisco de aji amarillo en las Brujas de Cachiche (con una botella de agua al lado para apagar el incendio posterior).",
+				"Place" : "Brujas de Cachiche",
 				"Status" : "N",
 				"Image" : "images/010.jpg",
 				"Photo" : "None",
@@ -93,7 +93,7 @@
 			},
 			{
 				"ID" : "011",
-				"Place" : "Tomar algarrobina y pisco sours de todos los sabores (bueno hasta donde de la cabeza) en Huaringas y/o Ayahuasca.",
+				"Place" : "Ayahuasca",
 				"Status" : "N",
 				"Image" : "images/011.jpg",
 				"Photo" : "None",
@@ -102,16 +102,16 @@
 			},
 			{
 				"ID" : "012",
-				"Place" : "Comer el suspiro a la limeÒa de Maga y sus versiones de chirimoya y lucuma.",
+				"Place" : "Maga",
 				"Status" : "N",
 				"Image" : "images/012.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Comer el suspiro a la limeÒa de Maga y sus versiones de chirimoya y lucuma."
+				"Description" : "Comer el suspiro a la lime√±a de Maga y sus versiones de chirimoya y lucuma."
 			},
 			{
 				"ID" : "013",
-				"Place" : "Tomar Inca Kola (helada y en botella de vidrio).",
+				"Place" : "Inca Kola",
 				"Status" : "N",
 				"Image" : "images/013.jpg",
 				"Photo" : "None",
@@ -120,7 +120,7 @@
 			},
 			{
 				"ID" : "014",
-				"Place" : "Tomar chicha morada (heladita).",
+				"Place" : "Chicha morada",
 				"Status" : "N",
 				"Image" : "images/014.jpg",
 				"Photo" : "None",
@@ -129,7 +129,7 @@
 			},
 			{
 				"ID" : "015",
-				"Place" : "Comer el ceviche de conchas negras de Emilio y Gladys en Chorrillos.",
+				"Place" : "Emilio y Gladys",
 				"Status" : "N",
 				"Image" : "images/015.jpg",
 				"Photo" : "None",
@@ -138,7 +138,7 @@
 			},
 			{
 				"ID" : "016",
-				"Place" : "Comer el ceviche de pescado de Javier Wong.",
+				"Place" : "Javier Wong",
 				"Status" : "N",
 				"Image" : "images/016.jpg",
 				"Photo" : "None",
@@ -147,16 +147,16 @@
 			},
 			{
 				"ID" : "017",
-				"Place" : "Caminar por el parque Kennedy (y escuchar al seÒor de la ìrevolucion calienteî).",
+				"Place" : "Parque Kennedy",
 				"Status" : "N",
 				"Image" : "images/017.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Caminar por el parque Kennedy (y escuchar al seÒor de la ìrevolucion calienteî)."
+				"Description" : "Caminar por el parque Kennedy (y escuchar al se√±or de la ‚Äúrevolucion caliente‚Äù)."
 			},
 			{
 				"ID" : "018",
-				"Place" : "Desayunar en el Haiti.",
+				"Place" : "Haiti",
 				"Status" : "N",
 				"Image" : "images/018.jpg",
 				"Photo" : "None",
@@ -165,7 +165,7 @@
 			},
 			{
 				"ID" : "019",
-				"Place" : "Ir a la Feria Gastronomica Mistura (setiembre) y empacharse de comida (advertencia: ese dia no desayunar y llevar un digestivo).",
+				"Place" : "Mistura",
 				"Status" : "N",
 				"Image" : "images/019.jpg",
 				"Photo" : "None",
@@ -174,7 +174,7 @@
 			},
 			{
 				"ID" : "020",
-				"Place" : "Juerguear en El Dragon de Barranco.",
+				"Place" : "Dragon de Barranco",
 				"Status" : "N",
 				"Image" : "images/020.jpg",
 				"Photo" : "None",
@@ -183,7 +183,7 @@
 			},
 			{
 				"ID" : "021",
-				"Place" : "Ir a Asia (en verano).",
+				"Place" : "Asia",
 				"Status" : "N",
 				"Image" : "images/021.jpg",
 				"Photo" : "None",
@@ -192,7 +192,7 @@
 			},
 			{
 				"ID" : "022",
-				"Place" : "Visitar el MALI (Museo de Arte de Lima).",
+				"Place" : "Museo de Arte de Lima",
 				"Status" : "N",
 				"Image" : "images/022.jpg",
 				"Photo" : "None",
@@ -201,7 +201,7 @@
 			},
 			{
 				"ID" : "023",
-				"Place" : "Entrar en la Catedral de Lima.",
+				"Place" : "Catedral de Lima",
 				"Status" : "N",
 				"Image" : "images/023.jpg",
 				"Photo" : "None",
@@ -210,16 +210,16 @@
 			},
 			{
 				"ID" : "024",
-				"Place" : "Ir a Larcomar (de shopping, a tomar, a comer a ver el mar, al teatroÖ).",
+				"Place" : "Larcomar",
 				"Status" : "N",
 				"Image" : "images/024.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Ir a Larcomar (de shopping, a tomar, a comer a ver el mar, al teatroÖ)."
+				"Description" : "Ir a Larcomar (de shopping, a tomar, a comer a ver el mar, al teatro‚Ä¶)."
 			},
 			{
 				"ID" : "025",
-				"Place" : "Ir de shopping al Jockey Plaza (al boulevard).",
+				"Place" : "Jockey Plaza",
 				"Status" : "N",
 				"Image" : "images/025.jpg",
 				"Photo" : "None",
@@ -228,16 +228,16 @@
 			},
 			{
 				"ID" : "026",
-				"Place" : "Ir a la peÒa Del Carajo y disfrutar de una fiesta afroperuana.",
+				"Place" : "Pe√±a Del Carajo",
 				"Status" : "N",
 				"Image" : "images/026.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Ir a la peÒa Del Carajo y disfrutar de una fiesta afroperuana."
+				"Description" : "Ir a la pe√±a Del Carajo y disfrutar de una fiesta afroperuana."
 			},
 			{
 				"ID" : "027",
-				"Place" : "Caminar / correr / patinar / bicicletear por el Golf de San Isidro.",
+				"Place" : "Golf de San Isidro",
 				"Status" : "N",
 				"Image" : "images/027.jpg",
 				"Photo" : "None",
@@ -246,7 +246,7 @@
 			},
 			{
 				"ID" : "028",
-				"Place" : "Tomar una res (o varias) en El Queirolo.",
+				"Place" : "El Queirolo",
 				"Status" : "N",
 				"Image" : "images/028.jpg",
 				"Photo" : "None",
@@ -255,7 +255,7 @@
 			},
 			{
 				"ID" : "029",
-				"Place" : "Visitar la Casa de la Gastronomia.",
+				"Place" : "Casa de la Gastronomia",
 				"Status" : "N",
 				"Image" : "images/029.jpg",
 				"Photo" : "None",
@@ -264,7 +264,7 @@
 			},
 			{
 				"ID" : "030",
-				"Place" : "Comer un sanguche de jamon serrano en El Cordano.",
+				"Place" : "El Cordano",
 				"Status" : "N",
 				"Image" : "images/030.jpg",
 				"Photo" : "None",
@@ -273,7 +273,7 @@
 			},
 			{
 				"ID" : "031",
-				"Place" : "Pasear por el Jiron de la Union.",
+				"Place" : "Jiron de la Union",
 				"Status" : "N",
 				"Image" : "images/031.jpg",
 				"Photo" : "None",
@@ -282,7 +282,7 @@
 			},
 			{
 				"ID" : "032",
-				"Place" : "Comer / tomar una cremolada en el Curich (en verano, mejor).",
+				"Place" : "El Curich",
 				"Status" : "N",
 				"Image" : "images/032.jpg",
 				"Photo" : "None",
@@ -291,7 +291,7 @@
 			},
 			{
 				"ID" : "033",
-				"Place" : "Recorrer la Costa Verde y ver el sunset en una de sus playas.",
+				"Place" : "Costa Verde",
 				"Status" : "N",
 				"Image" : "images/033.jpg",
 				"Photo" : "None",
@@ -300,7 +300,7 @@
 			},
 			{
 				"ID" : "034",
-				"Place" : "Ir a la Plaza de Armas de Barranco.",
+				"Place" : "Plaza de Armas de Barranco",
 				"Status" : "N",
 				"Image" : "images/034.jpg",
 				"Photo" : "None",
@@ -309,7 +309,7 @@
 			},
 			{
 				"ID" : "035",
-				"Place" : "Caminar por El Olivar.",
+				"Place" : "Parque El Olivar",
 				"Status" : "N",
 				"Image" : "images/035.jpg",
 				"Photo" : "None",
@@ -318,7 +318,7 @@
 			},
 			{
 				"ID" : "036",
-				"Place" : "Pedir una cancion en la rocola de La Noche.",
+				"Place" : "La Noche de Barranco",
 				"Status" : "N",
 				"Image" : "images/036.jpg",
 				"Photo" : "None",
@@ -327,7 +327,7 @@
 			},
 			{
 				"ID" : "037",
-				"Place" : "Comer comida de la selva en El Aguajal.",
+				"Place" : "El Aguajal",
 				"Status" : "N",
 				"Image" : "images/037.jpg",
 				"Photo" : "None",
@@ -336,16 +336,16 @@
 			},
 			{
 				"ID" : "038",
-				"Place" : "Comer turron de doÒa pepa (en octubre, mejor).",
+				"Place" : "Do√±a Pepa",
 				"Status" : "N",
 				"Image" : "images/038.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Comer turron de doÒa pepa (en octubre, mejor)."
+				"Description" : "Comer turron de do√±a pepa (en octubre, mejor)."
 			},
 			{
 				"ID" : "039",
-				"Place" : "Subirse a una combi (si gustan de los deportes de alto riesgo).",
+				"Place" : "Combi",
 				"Status" : "N",
 				"Image" : "images/039.jpg",
 				"Photo" : "None",
@@ -354,7 +354,7 @@
 			},
 			{
 				"ID" : "040",
-				"Place" : "Ir al Parque del Amor.",
+				"Place" : "Parque del Amor",
 				"Status" : "N",
 				"Image" : "images/040.jpg",
 				"Photo" : "None",
@@ -363,7 +363,7 @@
 			},
 			{
 				"ID" : "041",
-				"Place" : "Ir al Circuito Magico del Agua.",
+				"Place" : "Circuito Magico del Agua",
 				"Status" : "N",
 				"Image" : "images/041.jpg",
 				"Photo" : "None",
@@ -372,7 +372,7 @@
 			},
 			{
 				"ID" : "042",
-				"Place" : "Cenar en la terraza de la Huaca Pucllana.",
+				"Place" : "Huaca Pucllana",
 				"Status" : "N",
 				"Image" : "images/042.jpg",
 				"Photo" : "None",
@@ -381,7 +381,7 @@
 			},
 			{
 				"ID" : "043",
-				"Place" : "Ir a Pachacamac y desayunar pan con chicharron.",
+				"Place" : "Pachacamac",
 				"Status" : "N",
 				"Image" : "images/043.jpg",
 				"Photo" : "None",
@@ -390,7 +390,7 @@
 			},
 			{
 				"ID" : "044",
-				"Place" : "Visitar el Convento de San Francisco.",
+				"Place" : "Convento de San Francisco",
 				"Status" : "N",
 				"Image" : "images/044.jpg",
 				"Photo" : "None",
@@ -399,7 +399,7 @@
 			},
 			{
 				"ID" : "045",
-				"Place" : "Ir a Caral.",
+				"Place" : "Caral",
 				"Status" : "N",
 				"Image" : "images/045.jpg",
 				"Photo" : "None",
@@ -408,7 +408,7 @@
 			},
 			{
 				"ID" : "046",
-				"Place" : "Lanzar una carta con tus deseos escritos en el pozo de Santa Rosa de Lima.",
+				"Place" : "Santa Rosa de Lima",
 				"Status" : "N",
 				"Image" : "images/046.jpg",
 				"Photo" : "None",
@@ -417,7 +417,7 @@
 			},
 			{
 				"ID" : "047",
-				"Place" : "Visitar los Parque de la Reserva y de la Exposicion.",
+				"Place" : "Parque de la Reserva",
 				"Status" : "N",
 				"Image" : "images/047.jpg",
 				"Photo" : "None",
@@ -426,7 +426,7 @@
 			},
 			{
 				"ID" : "048",
-				"Place" : "Visitar el Barrio Chino y comer chifa.",
+				"Place" : "Barrio Chino",
 				"Status" : "N",
 				"Image" : "images/048.jpg",
 				"Photo" : "None",
@@ -435,7 +435,7 @@
 			},
 			{
 				"ID" : "049",
-				"Place" : "Ver un espectaculo de La Tarumba.",
+				"Place" : "La Tarumba",
 				"Status" : "N",
 				"Image" : "images/049.jpg",
 				"Photo" : "None",
@@ -444,7 +444,7 @@
 			},
 			{
 				"ID" : "050",
-				"Place" : "Visitar el Cementerio Presbitero Maestro.",
+				"Place" : "Cementerio Presbitero Maestro",
 				"Status" : "N",
 				"Image" : "images/050.jpg",
 				"Photo" : "None",
@@ -453,7 +453,7 @@
 			},
 			{
 				"ID" : "051",
-				"Place" : "Ver un salto del Fraile.",
+				"Place" : "Salto del Fraile",
 				"Status" : "N",
 				"Image" : "images/051.jpg",
 				"Photo" : "None",
@@ -462,7 +462,7 @@
 			},
 			{
 				"ID" : "052",
-				"Place" : "Ver un espectaculo en el Teatro Municipal y el Teatro Segura.",
+				"Place" : "Teatro Municipal",
 				"Status" : "N",
 				"Image" : "images/052.jpg",
 				"Photo" : "None",
@@ -471,7 +471,7 @@
 			},
 			{
 				"ID" : "053",
-				"Place" : "Ir al Mercado de Surquillo.",
+				"Place" : "Mercado de Surquillo",
 				"Status" : "N",
 				"Image" : "images/053.jpg",
 				"Photo" : "None",
@@ -480,16 +480,16 @@
 			},
 			{
 				"ID" : "054",
-				"Place" : "Comer los anticuchos de doÒa Grimanesa.",
+				"Place" : "Grimanesa",
 				"Status" : "N",
 				"Image" : "images/054.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Comer los anticuchos de doÒa Grimanesa."
+				"Description" : "Comer los anticuchos de do√±a Grimanesa."
 			},
 			{
 				"ID" : "055",
-				"Place" : "Escuchar un concierto de Bareto y otro de Sabor y Control.",
+				"Place" : "La noche de Barranco",
 				"Status" : "N",
 				"Image" : "images/055.jpg",
 				"Photo" : "None",
@@ -507,7 +507,7 @@
 			},
 			{
 				"ID" : "057",
-				"Place" : "Caminar por la avenida Larco.",
+				"Place" : "Avenida Larco",
 				"Status" : "N",
 				"Image" : "images/057.jpg",
 				"Photo" : "None",
@@ -516,7 +516,7 @@
 			},
 			{
 				"ID" : "058",
-				"Place" : "Subir a un mototaxi en Chorrillos.",
+				"Place" : "Chorrillos",
 				"Status" : "N",
 				"Image" : "images/058.jpg",
 				"Photo" : "None",
@@ -525,7 +525,7 @@
 			},
 			{
 				"ID" : "059",
-				"Place" : "Ver los exteriores del Palacio de Justicia.",
+				"Place" : "Palacio de Justicia",
 				"Status" : "N",
 				"Image" : "images/059.jpg",
 				"Photo" : "None",
@@ -534,7 +534,7 @@
 			},
 			{
 				"ID" : "060",
-				"Place" : "Comer choclo con queso y papa con huevo frente al local policial del Escuadron Verde en el centro.",
+				"Place" : "Centro de Lima",
 				"Status" : "N",
 				"Image" : "images/060.jpg",
 				"Photo" : "None",
@@ -543,7 +543,7 @@
 			},
 			{
 				"ID" : "061",
-				"Place" : "Ver, de noche, la cruz del morro solar desde cualquier punto de la costa.",
+				"Place" : "Morro Solar",
 				"Status" : "N",
 				"Image" : "images/061.jpg",
 				"Photo" : "None",
@@ -552,7 +552,7 @@
 			},
 			{
 				"ID" : "062",
-				"Place" : "Comer huevos de codorniz en el centro.",
+				"Place" : "Centro de Lima",
 				"Status" : "N",
 				"Image" : "images/062.jpg",
 				"Photo" : "None",
@@ -561,12 +561,12 @@
 			},
 			{
 				"ID" : "063",
-				"Place" : "Tomar una CuzqueÒa helada con canchita serrana en un dia de sol.",
+				"Place" : "Lima",
 				"Status" : "N",
 				"Image" : "images/063.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Tomar una CuzqueÒa helada con canchita serrana en un dia de sol."
+				"Description" : "Tomar una Cuzque√±a helada con canchita serrana en un dia de sol."
 			},
 			{
 				"ID" : "064",
@@ -579,7 +579,7 @@
 			},
 			{
 				"ID" : "065",
-				"Place" : "Ver caballos de paso en Mamacona.",
+				"Place" : "Mamacona",
 				"Status" : "N",
 				"Image" : "images/065.jpg",
 				"Photo" : "None",
@@ -831,12 +831,12 @@
 			},
 			{
 				"ID" : "093",
-				"Place" : "Ver la procesion del SeÒor de Los Milagros.",
+				"Place" : "Ver la procesion del Se√±or de Los Milagros.",
 				"Status" : "N",
 				"Image" : "images/093.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Ver la procesion del SeÒor de Los Milagros."
+				"Description" : "Ver la procesion del Se√±or de Los Milagros."
 			},
 			{
 				"ID" : "094",
@@ -903,12 +903,12 @@
 			},
 			{
 				"ID" : "101",
-				"Place" : "Comer el buffet criollo del SeÒorio de Sulco (especificar cada plato peruano nos aleja de los 101) y de postre el helado de petalos de rosas.",
+				"Place" : "Comer el buffet criollo del Se√±orio de Sulco (especificar cada plato peruano nos aleja de los 101) y de postre el helado de petalos de rosas.",
 				"Status" : "N",
 				"Image" : "images/101.jpg",
 				"Photo" : "None",
 				"GPS" : "None",
-				"Description" : "Comer el buffet criollo del SeÒorio de Sulco (especificar cada plato peruano nos aleja de los 101) y de postre el helado de petalos de rosas."
+				"Description" : "Comer el buffet criollo del Se√±orio de Sulco (especificar cada plato peruano nos aleja de los 101) y de postre el helado de petalos de rosas."
 			}
 			
 	]
