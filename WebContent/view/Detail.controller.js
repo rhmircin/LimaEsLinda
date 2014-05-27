@@ -21,14 +21,14 @@ sap.ui.controller("limaeslinda.view.Detail", {
 		var mapDiv = this.getView().byId("map_canvas");
 		mapDiv.addStyleClass("myMap");
 		geocoder = new google.maps.Geocoder();
-        var mapOptions = {  
-            center: new google.maps.LatLng(-12.04637, -77.04279),  
-            zoom: 14,  
-            mapTypeId: google.maps.MapTypeId.ROADMAP  
-        };  
-        var mapRef = mapDiv.getDomRef();
-        map = new google.maps.Map(mapRef, mapOptions);
-        this.codeAddress();
+	        var mapOptions = {  
+	            center: new google.maps.LatLng(-12.04637, -77.04279),  
+	            zoom: 14,  
+	            mapTypeId: google.maps.MapTypeId.ROADMAP  
+        	};  
+	        var mapRef = mapDiv.getDomRef();
+	        map = new google.maps.Map(mapRef, mapOptions);
+	        this.codeAddress();
 	},
 	
 	codeAddress : function () {
